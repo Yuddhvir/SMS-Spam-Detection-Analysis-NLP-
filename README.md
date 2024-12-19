@@ -1,4 +1,4 @@
-# SMS-Spam-Detection-Analysis-NLP-
+# SMS-Spam Detection system Using NLP
 
 This project is about building a spam detection system for SMS messages using deep learning techniques in TensorFlow2. Three different architectures, namely Dense Network, LSTM, and Bi-LSTM, have been used to build the spam detection model. The accuracy of the models is compared and evaluated to select the best one.
 
